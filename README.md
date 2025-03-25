@@ -1,2 +1,2 @@
 # ddos-package
-All in the ReadME
+This is a ddos attack tool (ddosReaper) with helping tools.
